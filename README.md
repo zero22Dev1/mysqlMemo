@@ -1,0 +1,2 @@
+# mysqlMemo
+📝：Mysqlのメモ
